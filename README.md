@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 "Software Engineer | Python & Web Dev | Building scalable webpages"<br>"Full-stack Developer | Tech enthusiast | Problem solver"<br>'Computer Science Student | Coding & learning new tech"<br>"Passionate about Python | Building projects"<br>
 
 
